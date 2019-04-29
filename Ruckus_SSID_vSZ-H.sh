@@ -16,7 +16,7 @@
 #Variablen
     IPaddress="172.16.10.220" #IP-Adresse des vSZ
     Username="terosami" #User
-    Password="ScB_1931!" #Passwort des Benutzer
+    Password="" #Passwort des Benutzer
     domain="Heiniger" #Domain setzen
     Zone="Heininger Koeniz"  #Zone definieren
     ssid="Test_gg" #SSID
